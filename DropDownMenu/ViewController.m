@@ -19,7 +19,7 @@
 @property (nonatomic, strong)NSArray *selelctedArray1;
 @property (nonatomic, strong)NSArray *selelctedArray2;
 @property (nonatomic, strong)NSMutableArray *selelctedArray3;
-
+//双表选择菜单
 @property (nonatomic, strong)QYDropDownMenu *menu;
 @end
 
